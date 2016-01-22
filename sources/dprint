@@ -1,0 +1,360 @@
+running in directory '/home/caliga/saturn_test_build/C/in_chip_barrier/sources'
+v1  ----  ex_in_chip_barrier *****  RUN TEST yes *****
+/home/caliga/saturn_test_build/C/in_chip_barrier/sources
+b4 cd dir
+/home/caliga/saturn_test_build/C/in_chip_barrier/sources/v1
+before if run
+run dbg
+v1
+j 0 nsamp 0 nline 0 ix 15 v0 15
+j 1 nsamp 1 nline 0 ix 14 v0 14
+j 2 nsamp 2 nline 0 ix 13 v0 13
+j 3 nsamp 3 nline 0 ix 12 v0 12
+j 4 nsamp 4 nline 0 ix 11 v0 11
+j 5 nsamp 5 nline 0 ix 10 v0 10
+j 6 nsamp 6 nline 0 ix 9 v0 9
+j 7 nsamp 7 nline 0 ix 8 v0 8
+j 8 nsamp 8 nline 0 ix 7 v0 7
+j 9 nsamp 9 nline 0 ix 6 v0 6
+j 10 nsamp 10 nline 0 ix 5 v0 5
+j 11 nsamp 11 nline 0 ix 4 v0 4
+j 12 nsamp 12 nline 0 ix 3 v0 3
+j 13 nsamp 13 nline 0 ix 2 v0 2
+j 14 nsamp 14 nline 0 ix 1 v0 1
+j 15 nsamp 15 nline 0 ix 0 v0 0
+j 16 nsamp 0 nline 1 ix 31 v0 31
+j 17 nsamp 1 nline 1 ix 30 v0 30
+j 18 nsamp 2 nline 1 ix 29 v0 29
+j 19 nsamp 3 nline 1 ix 28 v0 28
+j 20 nsamp 4 nline 1 ix 27 v0 27
+j 21 nsamp 5 nline 1 ix 26 v0 26
+j 22 nsamp 6 nline 1 ix 25 v0 25
+j 23 nsamp 7 nline 1 ix 24 v0 24
+j 24 nsamp 8 nline 1 ix 23 v0 23
+j 25 nsamp 9 nline 1 ix 22 v0 22
+j 26 nsamp 10 nline 1 ix 21 v0 21
+j 27 nsamp 11 nline 1 ix 20 v0 20
+j 28 nsamp 12 nline 1 ix 19 v0 19
+j 29 nsamp 13 nline 1 ix 18 v0 18
+j 30 nsamp 14 nline 1 ix 17 v0 17
+j 31 nsamp 15 nline 1 ix 16 v0 16
+j 32 nsamp 0 nline 2 ix 47 v0 47
+j 33 nsamp 1 nline 2 ix 46 v0 46
+j 34 nsamp 2 nline 2 ix 45 v0 45
+j 35 nsamp 3 nline 2 ix 44 v0 44
+j 36 nsamp 4 nline 2 ix 43 v0 43
+j 37 nsamp 5 nline 2 ix 42 v0 42
+j 38 nsamp 6 nline 2 ix 41 v0 41
+j 39 nsamp 7 nline 2 ix 40 v0 40
+j 40 nsamp 8 nline 2 ix 39 v0 39
+j 41 nsamp 9 nline 2 ix 38 v0 38
+j 42 nsamp 10 nline 2 ix 37 v0 37
+j 43 nsamp 11 nline 2 ix 36 v0 36
+j 44 nsamp 12 nline 2 ix 35 v0 35
+j 45 nsamp 13 nline 2 ix 34 v0 34
+j 46 nsamp 14 nline 2 ix 33 v0 33
+j 47 nsamp 15 nline 2 ix 32 v0 32
+j 48 nsamp 0 nline 3 ix 63 v0 63
+j 49 nsamp 1 nline 3 ix 62 v0 62
+j 50 nsamp 2 nline 3 ix 61 v0 61
+j 51 nsamp 3 nline 3 ix 60 v0 60
+j 52 nsamp 4 nline 3 ix 59 v0 59
+j 53 nsamp 5 nline 3 ix 58 v0 58
+j 54 nsamp 6 nline 3 ix 57 v0 57
+j 55 nsamp 7 nline 3 ix 56 v0 56
+j 56 nsamp 8 nline 3 ix 55 v0 55
+j 57 nsamp 9 nline 3 ix 54 v0 54
+j 58 nsamp 10 nline 3 ix 53 v0 53
+j 59 nsamp 11 nline 3 ix 52 v0 52
+j 60 nsamp 12 nline 3 ix 51 v0 51
+j 61 nsamp 13 nline 3 ix 50 v0 50
+j 62 nsamp 14 nline 3 ix 49 v0 49
+j 63 nsamp 15 nline 3 ix 48 v0 48
+j 64 nsamp 0 nline 4 ix 79 v0 79
+j 65 nsamp 1 nline 4 ix 78 v0 78
+j 66 nsamp 2 nline 4 ix 77 v0 77
+j 67 nsamp 3 nline 4 ix 76 v0 76
+j 68 nsamp 4 nline 4 ix 75 v0 75
+j 69 nsamp 5 nline 4 ix 74 v0 74
+j 70 nsamp 6 nline 4 ix 73 v0 73
+j 71 nsamp 7 nline 4 ix 72 v0 72
+j 72 nsamp 8 nline 4 ix 71 v0 71
+j 73 nsamp 9 nline 4 ix 70 v0 70
+j 74 nsamp 10 nline 4 ix 69 v0 69
+j 75 nsamp 11 nline 4 ix 68 v0 68
+j 76 nsamp 12 nline 4 ix 67 v0 67
+j 77 nsamp 13 nline 4 ix 66 v0 66
+j 78 nsamp 14 nline 4 ix 65 v0 65
+j 79 nsamp 15 nline 4 ix 64 v0 64
+j 80 nsamp 0 nline 5 ix 95 v0 95
+j 81 nsamp 1 nline 5 ix 94 v0 94
+j 82 nsamp 2 nline 5 ix 93 v0 93
+j 83 nsamp 3 nline 5 ix 92 v0 92
+j 84 nsamp 4 nline 5 ix 91 v0 91
+j 85 nsamp 5 nline 5 ix 90 v0 90
+j 86 nsamp 6 nline 5 ix 89 v0 89
+j 87 nsamp 7 nline 5 ix 88 v0 88
+j 88 nsamp 8 nline 5 ix 87 v0 87
+j 89 nsamp 9 nline 5 ix 86 v0 86
+j 90 nsamp 10 nline 5 ix 85 v0 85
+j 91 nsamp 11 nline 5 ix 84 v0 84
+j 92 nsamp 12 nline 5 ix 83 v0 83
+j 93 nsamp 13 nline 5 ix 82 v0 82
+j 94 nsamp 14 nline 5 ix 81 v0 81
+j 95 nsamp 15 nline 5 ix 80 v0 80
+j 96 nsamp 0 nline 6 ix 111 v0 111
+j 97 nsamp 1 nline 6 ix 110 v0 110
+j 98 nsamp 2 nline 6 ix 109 v0 109
+j 99 nsamp 3 nline 6 ix 108 v0 108
+j 100 nsamp 4 nline 6 ix 107 v0 107
+j 101 nsamp 5 nline 6 ix 106 v0 106
+j 102 nsamp 6 nline 6 ix 105 v0 105
+j 103 nsamp 7 nline 6 ix 104 v0 104
+j 104 nsamp 8 nline 6 ix 103 v0 103
+j 105 nsamp 9 nline 6 ix 102 v0 102
+j 106 nsamp 10 nline 6 ix 101 v0 101
+j 107 nsamp 11 nline 6 ix 100 v0 100
+j 108 nsamp 12 nline 6 ix 99 v0 99
+j 109 nsamp 13 nline 6 ix 98 v0 98
+j 110 nsamp 14 nline 6 ix 97 v0 97
+j 111 nsamp 15 nline 6 ix 96 v0 96
+j 112 nsamp 0 nline 7 ix 127 v0 127
+j 113 nsamp 1 nline 7 ix 126 v0 126
+j 114 nsamp 2 nline 7 ix 125 v0 125
+j 115 nsamp 3 nline 7 ix 124 v0 124
+j 116 nsamp 4 nline 7 ix 123 v0 123
+j 117 nsamp 5 nline 7 ix 122 v0 122
+j 118 nsamp 6 nline 7 ix 121 v0 121
+j 119 nsamp 7 nline 7 ix 120 v0 120
+j 120 nsamp 8 nline 7 ix 119 v0 119
+j 121 nsamp 9 nline 7 ix 118 v0 118
+j 122 nsamp 10 nline 7 ix 117 v0 117
+j 123 nsamp 11 nline 7 ix 116 v0 116
+j 124 nsamp 12 nline 7 ix 115 v0 115
+j 125 nsamp 13 nline 7 ix 114 v0 114
+j 126 nsamp 14 nline 7 ix 113 v0 113
+j 127 nsamp 15 nline 7 ix 112 v0 112
+0 clocks
+v1_solution  ----  ex_in_chip_barrier *****  RUN TEST yes *****
+/home/caliga/saturn_test_build/C/in_chip_barrier/sources
+b4 cd dir
+/home/caliga/saturn_test_build/C/in_chip_barrier/sources/v1_solution
+before if run
+run dbg
+v1_solution
+dma b4 dma    
+get b4 loop   
+    b4 barrier0
+dma b4 barrier
+get b4 barrier
+    af barrier
+j 0 nsamp 0 nline 0 ix 15 v0 15
+j 1 nsamp 0 nline 0 ix 14 v0 14
+j 2 nsamp 0 nline 0 ix 13 v0 13
+j 3 nsamp 0 nline 0 ix 12 v0 12
+j 4 nsamp 0 nline 0 ix 11 v0 11
+j 5 nsamp 0 nline 0 ix 10 v0 10
+j 6 nsamp 0 nline 0 ix 9 v0 9
+j 7 nsamp 0 nline 0 ix 8 v0 8
+j 8 nsamp 0 nline 0 ix 7 v0 7
+j 9 nsamp 0 nline 0 ix 6 v0 6
+j 10 nsamp 0 nline 0 ix 5 v0 5
+j 11 nsamp 0 nline 0 ix 4 v0 4
+j 12 nsamp 0 nline 0 ix 3 v0 3
+j 13 nsamp 0 nline 0 ix 2 v0 2
+j 14 nsamp 0 nline 0 ix 1 v0 1
+j 15 nsamp 0 nline 0 ix 0 v0 0
+    b4 barrier1
+    af barrier1
+    b4 barrier0
+get b4 loop   
+dma b4 dma    
+dma b4 barrier
+get b4 barrier
+    af barrier
+j 0 nsamp 0 nline 0 ix 15 v0 31
+j 1 nsamp 0 nline 0 ix 14 v0 30
+j 2 nsamp 0 nline 0 ix 13 v0 29
+j 3 nsamp 0 nline 0 ix 12 v0 28
+j 4 nsamp 0 nline 0 ix 11 v0 27
+j 5 nsamp 0 nline 0 ix 10 v0 26
+j 6 nsamp 0 nline 0 ix 9 v0 25
+j 7 nsamp 0 nline 0 ix 8 v0 24
+j 8 nsamp 0 nline 0 ix 7 v0 23
+j 9 nsamp 0 nline 0 ix 6 v0 22
+j 10 nsamp 0 nline 0 ix 5 v0 21
+j 11 nsamp 0 nline 0 ix 4 v0 20
+j 12 nsamp 0 nline 0 ix 3 v0 19
+j 13 nsamp 0 nline 0 ix 2 v0 18
+j 14 nsamp 0 nline 0 ix 1 v0 17
+j 15 nsamp 0 nline 0 ix 0 v0 16
+    b4 barrier1
+    af barrier1
+    b4 barrier0
+get b4 loop   
+dma b4 dma    
+get b4 barrier
+dma b4 barrier
+    af barrier
+j 0 nsamp 0 nline 0 ix 15 v0 47
+j 1 nsamp 0 nline 0 ix 14 v0 46
+j 2 nsamp 0 nline 0 ix 13 v0 45
+j 3 nsamp 0 nline 0 ix 12 v0 44
+j 4 nsamp 0 nline 0 ix 11 v0 43
+j 5 nsamp 0 nline 0 ix 10 v0 42
+j 6 nsamp 0 nline 0 ix 9 v0 41
+j 7 nsamp 0 nline 0 ix 8 v0 40
+j 8 nsamp 0 nline 0 ix 7 v0 39
+j 9 nsamp 0 nline 0 ix 6 v0 38
+j 10 nsamp 0 nline 0 ix 5 v0 37
+j 11 nsamp 0 nline 0 ix 4 v0 36
+j 12 nsamp 0 nline 0 ix 3 v0 35
+j 13 nsamp 0 nline 0 ix 2 v0 34
+j 14 nsamp 0 nline 0 ix 1 v0 33
+j 15 nsamp 0 nline 0 ix 0 v0 32
+    b4 barrier1
+    af barrier1
+    b4 barrier0
+get b4 loop   
+dma b4 dma    
+get b4 barrier
+dma b4 barrier
+    af barrier
+j 0 nsamp 0 nline 0 ix 15 v0 63
+j 1 nsamp 0 nline 0 ix 14 v0 62
+j 2 nsamp 0 nline 0 ix 13 v0 61
+j 3 nsamp 0 nline 0 ix 12 v0 60
+j 4 nsamp 0 nline 0 ix 11 v0 59
+j 5 nsamp 0 nline 0 ix 10 v0 58
+j 6 nsamp 0 nline 0 ix 9 v0 57
+j 7 nsamp 0 nline 0 ix 8 v0 56
+j 8 nsamp 0 nline 0 ix 7 v0 55
+j 9 nsamp 0 nline 0 ix 6 v0 54
+j 10 nsamp 0 nline 0 ix 5 v0 53
+j 11 nsamp 0 nline 0 ix 4 v0 52
+j 12 nsamp 0 nline 0 ix 3 v0 51
+j 13 nsamp 0 nline 0 ix 2 v0 50
+j 14 nsamp 0 nline 0 ix 1 v0 49
+j 15 nsamp 0 nline 0 ix 0 v0 48
+    b4 barrier1
+    af barrier1
+    b4 barrier0
+get b4 loop   
+dma b4 dma    
+get b4 barrier
+dma b4 barrier
+    af barrier
+j 0 nsamp 0 nline 0 ix 15 v0 79
+j 1 nsamp 0 nline 0 ix 14 v0 78
+j 2 nsamp 0 nline 0 ix 13 v0 77
+j 3 nsamp 0 nline 0 ix 12 v0 76
+j 4 nsamp 0 nline 0 ix 11 v0 75
+j 5 nsamp 0 nline 0 ix 10 v0 74
+j 6 nsamp 0 nline 0 ix 9 v0 73
+j 7 nsamp 0 nline 0 ix 8 v0 72
+j 8 nsamp 0 nline 0 ix 7 v0 71
+j 9 nsamp 0 nline 0 ix 6 v0 70
+j 10 nsamp 0 nline 0 ix 5 v0 69
+j 11 nsamp 0 nline 0 ix 4 v0 68
+j 12 nsamp 0 nline 0 ix 3 v0 67
+j 13 nsamp 0 nline 0 ix 2 v0 66
+j 14 nsamp 0 nline 0 ix 1 v0 65
+j 15 nsamp 0 nline 0 ix 0 v0 64
+    b4 barrier1
+    af barrier1
+    b4 barrier0
+get b4 loop   
+dma b4 dma    
+get b4 barrier
+dma b4 barrier
+    af barrier
+j 0 nsamp 0 nline 0 ix 15 v0 95
+j 1 nsamp 0 nline 0 ix 14 v0 94
+j 2 nsamp 0 nline 0 ix 13 v0 93
+j 3 nsamp 0 nline 0 ix 12 v0 92
+j 4 nsamp 0 nline 0 ix 11 v0 91
+j 5 nsamp 0 nline 0 ix 10 v0 90
+j 6 nsamp 0 nline 0 ix 9 v0 89
+j 7 nsamp 0 nline 0 ix 8 v0 88
+j 8 nsamp 0 nline 0 ix 7 v0 87
+j 9 nsamp 0 nline 0 ix 6 v0 86
+j 10 nsamp 0 nline 0 ix 5 v0 85
+j 11 nsamp 0 nline 0 ix 4 v0 84
+j 12 nsamp 0 nline 0 ix 3 v0 83
+j 13 nsamp 0 nline 0 ix 2 v0 82
+j 14 nsamp 0 nline 0 ix 1 v0 81
+j 15 nsamp 0 nline 0 ix 0 v0 80
+    b4 barrier1
+    af barrier1
+    b4 barrier0
+get b4 loop   
+dma b4 dma    
+get b4 barrier
+dma b4 barrier
+    af barrier
+j 0 nsamp 0 nline 0 ix 15 v0 111
+j 1 nsamp 0 nline 0 ix 14 v0 110
+j 2 nsamp 0 nline 0 ix 13 v0 109
+j 3 nsamp 0 nline 0 ix 12 v0 108
+j 4 nsamp 0 nline 0 ix 11 v0 107
+j 5 nsamp 0 nline 0 ix 10 v0 106
+j 6 nsamp 0 nline 0 ix 9 v0 105
+j 7 nsamp 0 nline 0 ix 8 v0 104
+j 8 nsamp 0 nline 0 ix 7 v0 103
+j 9 nsamp 0 nline 0 ix 6 v0 102
+j 10 nsamp 0 nline 0 ix 5 v0 101
+j 11 nsamp 0 nline 0 ix 4 v0 100
+j 12 nsamp 0 nline 0 ix 3 v0 99
+j 13 nsamp 0 nline 0 ix 2 v0 98
+j 14 nsamp 0 nline 0 ix 1 v0 97
+j 15 nsamp 0 nline 0 ix 0 v0 96
+    b4 barrier1
+    af barrier1
+    b4 barrier0
+get b4 loop   
+dma b4 dma    
+get b4 barrier
+dma b4 barrier
+    af barrier
+j 0 nsamp 0 nline 0 ix 15 v0 127
+j 1 nsamp 0 nline 0 ix 14 v0 126
+j 2 nsamp 0 nline 0 ix 13 v0 125
+j 3 nsamp 0 nline 0 ix 12 v0 124
+j 4 nsamp 0 nline 0 ix 11 v0 123
+j 5 nsamp 0 nline 0 ix 10 v0 122
+j 6 nsamp 0 nline 0 ix 9 v0 121
+j 7 nsamp 0 nline 0 ix 8 v0 120
+j 8 nsamp 0 nline 0 ix 7 v0 119
+j 9 nsamp 0 nline 0 ix 6 v0 118
+j 10 nsamp 0 nline 0 ix 5 v0 117
+j 11 nsamp 0 nline 0 ix 4 v0 116
+j 12 nsamp 0 nline 0 ix 3 v0 115
+j 13 nsamp 0 nline 0 ix 2 v0 114
+j 14 nsamp 0 nline 0 ix 1 v0 113
+j 15 nsamp 0 nline 0 ix 0 v0 112
+    b4 barrier1
+    af barrier1
+0 clocks
+v2  ----  ex_in_chip_barrier *****  RUN TEST no *****
+/home/caliga/saturn_test_build/C/in_chip_barrier/sources
+b4 cd dir
+/home/caliga/saturn_test_build/C/in_chip_barrier/sources/v2
+before if run
+no options specified; exiting...
+v2_solution  ----  ex_in_chip_barrier *****  RUN TEST yes *****
+/home/caliga/saturn_test_build/C/in_chip_barrier/sources
+b4 cd dir
+/home/caliga/saturn_test_build/C/in_chip_barrier/sources/v2_solution
+before if run
+run dbg
+v2_solution
+                                                      + : mxn 2 start.
+                                                      + : mxn_term 1 start.
+                                                      + : Odd Pingpong start.
+                                                      + : Even Pingpong start.
+                                                      - : mxn_term 1 complete.
+                                                      - : Odd Pingpong complete.
+                                                      - : Even Pingpong complete.
+                                                      - : mxn 2 complete.
+0 clocks
+left while entire_set 
